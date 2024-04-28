@@ -1,0 +1,175 @@
+sentenceID,narrativeID,sentence,Coarse_grained_label,Fine_grained_label
+1,"Mon, 26 Feb 2024 13:30:14 GMT","I reached out for support because my dog passed away, and I've been feeling really sad.",P,2
+2,"Mon, 26 Feb 2024 13:30:14 GMT","The loss has hit me hard, and I've been struggling with my emotions.",P,2
+3,"Mon, 26 Feb 2024 13:30:14 GMT","In response, I was introduced to the K10 psychological assessment to help understand how I've been coping over the past month.",S,5
+4,"Mon, 26 Feb 2024 13:30:14 GMT",I was informed that my answers would be crucial in assessing my emotional state.,P,2
+5,"Mon, 26 Feb 2024 13:30:14 GMT",The assessment started with a question about how often I've felt tired for no good reason in the past four weeks.,P,2
+6,"Mon, 26 Feb 2024 13:30:14 GMT",I admitted to feeling that way a little of the time.,P,2
+7,"Mon, 26 Feb 2024 13:30:14 GMT","When asked to try again, I was presented with the next question, which was about how often I've felt nervous during the same period.",P,2
+8,"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT","I greeted someone today, expressing my concern that I haven't been feeling like myself and worrying that something might be wrong.",S,5
+9,"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT",I've been having mood swings and find myself easily angered by my friends and mom.,S,5
+10,"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT","When asked about specific triggers, I couldn't think of any.",S,5
+11,"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT","I admitted to feeling lost, very tired, and having no motivation to do my homework.",P,2
+12,"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT","I've only started feeling this way recently, and when asked if anything significant had happened to contribute to these feelings, my answer was simply ""nope.""",S,5
+13,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","I greeted the person on the other end, and they asked how I was feeling.",S,3
+14,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",I confessed that I've been feeling devastated.,P,2
+15,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They expressed sympathy and asked me to share what was going on.,S,5
+16,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","I told them about the sudden departure of my wife, who took the kids with her, and I suspected that it might have been because of money issues.",S,2
+17,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They acknowledged how tough and painful the situation must be for me and offered to talk more about it.,S,5
+18,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","I agreed, still reeling from the suddenness of it all.",S,2
+19,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They wanted to support me better and proposed conducting a brief emotional screening to understand how I've been feeling lately.,S,3
+20,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They explained they would ask me a series of questions about my feelings over the past four weeks and asked me to answer as honestly as possible.,S,3
+21,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","When asked how often I had felt tired out for no good reason in the past four weeks, I replied that it happened quite a lot.",P,2
+22,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They noted that it seemed like I felt this way 'most of the time'.,P,2
+23,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",Then they inquired about how often I had felt nervous during the same period.,S,3
+24,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","I asked for clarification on what they meant by 'nervous', but unfortunately, something went wrong, and they couldn't continue the conversation.",S,5
+25,"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They asked me to send another message to try and continue our discussion.,S,5
+26,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","I greeted the person on the other end, but I wasn't feeling good at all.",S,5
+27,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","My wife had left me, taking our children with her.",S,3
+28,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",It's been so hard that I've struggled to even get out of bed.,S,5
+29,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",I haven't had anyone to talk to about it; I've been dealing with it all by myself.,S,5
+30,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",The person I was speaking to expressed sympathy and wanted to help by understanding more about my feelings.,S,5
+31,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",They asked me a series of questions about the past four weeks.,S,5
+32,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",I admitted to feeling tired very often and also really nervous.,P,2
+33,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","I've frequently felt so nervous that nothing could calm me down, and I've felt hopeless quite a lot of the time.",P,2
+34,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","When asked about restlessness, I said I felt somewhat fidgety and a bit like I couldn't sit still.",P,2
+35,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",Depression has been a big part of my life recently; I've felt depressed a lot.,P,2
+36,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","Everything has seemed like an effort, and I've been so sad that nothing could cheer me up, feeling this way all the time.",P,2
+37,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",I also confessed to feeling worthless a lot.,P,1
+38,"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",The person on the other end assured me of their support and their intention to help me through this tough time.,S,5
+39,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","Today, I reached out for help because I'm not feeling good at all.",S,5
+40,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","My wife has left me, taking my children with her, and it's been incredibly tough to deal with.",S,5
+41,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","I've found it hard even to get out of bed, and I've been feeling like there's no purpose in life anymore.",P,1
+42,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","To better understand my feelings, I was asked a series of questions about the past four weeks.",S,5
+43,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",I admitted to feeling tired most of the time and feeling nervous quite often.,P,2
+44,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",There have been many times when I've been so nervous that nothing could calm me down.,S,5
+45,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","However, I haven't felt hopeless too much, which is a small relief.",P,2
+46,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","I've also felt quite restless and fidgety, but not to the point where I couldn't sit still.",P,2
+47,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",Depression has hit me hard; I've felt depressed a lot and often felt that everything was an effort.,P,2
+48,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",I've been so sad that nothing could cheer me up very often.,P,2
+49,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","I feel somewhat worthless, which is a difficult thing to admit.",P,2
+50,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","I was curious about my score from these questions, hoping to understand how to get support, but unfortunately, there was an issue, and I couldn't get my score at that moment.",P,1
+51,"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",I was asked to send another message to continue the conversation and find out how I could be supported through this challenging time.,S,5
+52,"Mon, 26 Feb 2024 13:48:18 GMT",I reached out because I'm stressed.,P,2
+53,"Mon, 26 Feb 2024 13:48:18 GMT","My family is constantly fighting, and I feel like I have no one to turn to for help.",S,5
+54,"Mon, 26 Feb 2024 13:48:18 GMT","In response, I was met with sympathy and an offer to better understand my feelings through a series of questions, with the assurance that my honest answers would help paint a clearer picture of my situation.",S,5
+55,"Mon, 26 Feb 2024 13:48:18 GMT","I was asked about how often I've felt tired, nervous, or so nervous that nothing could calm me down in the past four weeks.",P,2
+56,"Mon, 26 Feb 2024 13:48:18 GMT","I admitted to feeling tired and nervous a little and some of the time, respectively, and quite a lot when it came to being so nervous that nothing could calm me down.",P,2
+57,"Mon, 26 Feb 2024 13:48:18 GMT","However, I haven't felt hopeless, restless, or fidgety at all, which was a relief.",P,2
+58,"Mon, 26 Feb 2024 13:48:18 GMT",I did feel a little restless to the point of not being able to sit still and moderately depressed.,P,2
+59,"Mon, 26 Feb 2024 13:48:18 GMT","Everything felt like an effort a little of the time, but thankfully, I haven't felt so sad that nothing could cheer me up or worthless.",P,2
+60,"Mon, 26 Feb 2024 13:48:18 GMT","After answering all the questions, I was told that my total score suggested I was 'psychologically well,' indicating that despite the stress, I was managing relatively well psychologically.",P,2
+61,"Mon, 26 Feb 2024 13:48:18 GMT",They reminded me to seek further support if I ever felt overwhelmed or if my situation changed.,S,5
+62,"Mon, 26 Feb 2024 13:48:18 GMT","Grateful, I asked if I could continue speaking to them, and they agreed, ready to listen to more of my concerns.",S,5
+63,"Mon, 26 Feb 2024 13:48:18 GMT","When I inquired about the calculation of my K10 score, they clarified that as an AI developed by CARE Singapore for support, they don't calculate scores or conduct formal assessments like the K10.",B,1
+64,"Mon, 26 Feb 2024 13:48:18 GMT",They suggested reaching out to a professional for a formal assessment if I was interested.,S,5
+65,"Mon, 26 Feb 2024 13:48:18 GMT","I explained that the previous messages had involved 10 questions about my feelings, with responses ranging from 'none of the time' (1 point) to 'all of the time' (5 points), and that adding up these scores would give my K10 assessment score.",S,5
+66,"Wed, 28 Feb 2024 06:50:55 GMT",I reached out for help after being referred by two GPs to a psychiatrist at a public hospital.,S,5
+67,"Wed, 28 Feb 2024 06:50:55 GMT","The moment I knew I needed help was when I experienced seven different emotions within an hour, ranging from sadness to laughter.",P,2
+68,"Wed, 28 Feb 2024 06:50:55 GMT","This year has been tough, with a significant job change that altered not just my responsibilities but also the entire work environment and culture.",S,5
+69,"Wed, 28 Feb 2024 06:50:55 GMT","On top of that, I've been dealing with personal emotional issues.",P,2
+70,"Wed, 28 Feb 2024 06:50:55 GMT","At work, I've tried to compartmentalize my emotions, pushing thoughts away to feel numb, but it's not working.",P,2
+71,"Wed, 28 Feb 2024 06:50:55 GMT",My performance has suffered; I'm making mistakes on tasks I've done countless times before.,P,1
+72,"Wed, 28 Feb 2024 06:50:55 GMT",My colleagues have noticed and even conducted multiple background checks on me.,S,3
+73,"Wed, 28 Feb 2024 06:50:55 GMT",It feels like they hired one person and got a shell of me instead.,S,5
+74,"Wed, 28 Feb 2024 06:50:55 GMT",I question myself constantly but find no answers.,P,1
+75,"Wed, 28 Feb 2024 06:50:55 GMT","I can't focus, and there are days when I'm physically present but can't remember what I did.",P,2
+76,"Wed, 28 Feb 2024 06:50:55 GMT",I was told that changing jobs is a significant stressor and that it's normal to feel overwhelmed.,P,2
+77,"Wed, 28 Feb 2024 06:50:55 GMT",It's also concerning to experience such a wide range of emotions so frequently.,P,2
+78,"Wed, 28 Feb 2024 06:50:55 GMT",The strategy of compartmentalizing emotions at work can be exhausting and isn't always effective.,P,2
+79,"Wed, 28 Feb 2024 06:50:55 GMT","It's tough when you're not performing to your own standards, and feedback from colleagues can add to that stress.",S,5
+80,"Wed, 28 Feb 2024 06:50:55 GMT",I was reminded that seeking help is a strong step towards understanding and managing these feelings.,P,2
+81,"Wed, 28 Feb 2024 06:50:55 GMT","Feeling isolated and having no one to talk to, I was asked a series of questions about my feelings over the past four weeks.",S,5
+82,"Wed, 28 Feb 2024 06:50:55 GMT","I felt tired only a little, wasn't nervous at all, and didn't experience extreme nervousness since I usually listen to my favorite songs to calm down.",P,2
+83,"Wed, 28 Feb 2024 06:50:55 GMT","I haven't felt hopeless, which is a positive sign.",P,2
+84,"Wed, 28 Feb 2024 06:50:55 GMT","I've felt a little restless and fidgety, but not to the point where I couldn't sit still.",P,2
+85,"Wed, 28 Feb 2024 06:50:55 GMT","I haven't felt depressed, and while I believe everything requires effort, I admitted that sometimes tasks felt more difficult than usual.",P,2
+86,"Wed, 28 Feb 2024 06:50:55 GMT","I've felt a little sad, but not to the point where nothing could cheer me up, and I haven't felt worthless.",P,2
+87,"Wed, 28 Feb 2024 06:50:55 GMT","Based on the assessment, my distress level was noted as 15 out of 40, suggesting a mild level of distress.",B,3
+88,"Wed, 28 Feb 2024 06:50:55 GMT",It was emphasized that this assessment should be considered within the broader context of my life and experiences and interpreted by a qualified individual.,P,1
+89,"Wed, 28 Feb 2024 06:50:55 GMT","Wondering what to do next, I was advised to continue seeking professional support, incorporate self-care practices, build a support system, and set small, achievable goals.",P,1
+90,"Wed, 28 Feb 2024 06:50:55 GMT","Moving forward involves following up with mental health professionals, exploring support networks, and engaging in activities that bring me joy.",P,2
+91,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","I've been feeling aimless in life lately, seeing no point in living.",P,2
+92,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT",I reached out for someone to talk to about this overwhelming sense of purposelessness.,S,5
+93,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","I've been unable to find joy in anything I do, and I'm not sure why.",P,2
+94,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","It's been a while since I've felt this way, and I'm worried that something might be wrong with me.",S,5
+95,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","In an effort to understand my feelings, I was asked a series of questions about the past four weeks.",S,5
+96,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","I admitted to feeling tired most of the time and a little nervous, but I haven't felt so nervous that nothing could calm me down.",P,2
+97,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","The feeling of hopelessness has been constant, and I've felt restless sometimes, though not to the point where I couldn't sit still.",P,2
+98,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","Depression has been a frequent visitor, and I've felt that everything was an effort all of the time.",P,2
+99,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","Sadness has been my companion most of the time, making me feel worthless.",P,1
+100,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","After sharing my feelings, I was told that my score indicated a high level of psychological distress and that it would be best to seek professional support.",P,2
+101,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT",I was provided with various resources for immediate assistance and encouraged to contact a helpline during office hours to speak with a counselor.,S,5
+102,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT",I was reassured that reaching out for help is a brave step towards feeling better and that I'm not alone in this.,P,1
+103,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT",I was reminded that it's okay to not be okay and that asking for help is a sign of strength.,P,1
+104,"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","In the end, I asked for coping strategies to help me manage until I could get professional help.",P,1
+105,"Thu, 29 Feb 2024 02:06:00 GMT","I reached out because something had been bothering me, and I needed to talk.",S,5
+106,"Thu, 29 Feb 2024 02:06:00 GMT","I felt like I was going crazy, hearing voices in my head that were harsh and critical, and I couldn't stop them.",P,1
+107,"Thu, 29 Feb 2024 02:06:00 GMT","It was distressing, and they had only started about a month ago.",S,5
+108,"Thu, 29 Feb 2024 02:06:00 GMT",I couldn't identify any significant changes in my life that might have triggered this.,S,5
+109,"Thu, 29 Feb 2024 02:06:00 GMT","In trying to understand my feelings, I was asked about the past four weeks.",S,5
+110,"Thu, 29 Feb 2024 02:06:00 GMT","I felt tired sometimes, nervous a lot of the time, and most of the time, I was so nervous that nothing could calm me down.",P,2
+111,"Thu, 29 Feb 2024 02:06:00 GMT","I felt hopeless and restless most of the time, and I was depressed and felt that everything was an effort.",P,2
+112,"Thu, 29 Feb 2024 02:06:00 GMT","Sometimes, I felt so sad that nothing could cheer me up, and I felt worthless all of the time.",P,1
+113,"Thu, 29 Feb 2024 02:06:00 GMT","When I mentioned that I didn't want to go to the Institute of Mental Health (IMH), it was acknowledged that I was there to talk to someone.",S,5
+114,"Thu, 29 Feb 2024 02:06:00 GMT","I shared that the voices would sometimes interrupt me in the middle of doing something, and it was hard to ignore them.",S,2
+115,"Thu, 29 Feb 2024 02:06:00 GMT","I found that turning up loud music sometimes helped to drown them out, but I couldn't always do that.",P,2
+116,"Thu, 29 Feb 2024 02:06:00 GMT","I was offered various coping strategies, such as mindfulness, meditation, physical activity, creative outlets, and talking to someone.",P,2
+117,"Thu, 29 Feb 2024 02:06:00 GMT","I was open to giving these a try, understanding that not everything might work right away.",P,1
+118,"Thu, 29 Feb 2024 02:06:00 GMT","I had asked if I was going crazy, and I was reassured that experiencing such things didn't mean I was going crazy.",P,2
+119,"Thu, 29 Feb 2024 02:06:00 GMT",It was a sign that I was facing difficulties and that seeking help was a strong and positive step.,P,2
+120,"Thu, 29 Feb 2024 02:06:00 GMT",I felt a bit better after the chat and was reminded that I could reach out anytime I needed to talk or had questions.,S,5
+121,"Thu, 29 Feb 2024 02:06:00 GMT","The conversation ended on a supportive note, with an offer of help whenever I might need it.",S,5
+122,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","I reached out to a chatline for help because I was feeling incredibly tired, especially after four days of training.",S,5
+123,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",I didn't get a chance to rest because I had to go back to work immediately after the trainings.,P,2
+124,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","The exhaustion was compounded by the fact that it was also the fasting month, which meant I had to manage work, training, and fasting all at once.",P,2
+125,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",The person on the chatline was understanding and asked me a series of questions to gauge my emotional well-being over the past four weeks.,S,3
+126,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","I knew I couldn't skip fasting despite the tiredness, and I admitted to feeling tired most of the time.",P,2
+127,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","However, I didn't feel nervous, restless, hopeless, or depressed.",P,2
+128,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",I was just physically worn out.,P,2
+129,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","They offered me some practical tips for managing tiredness during fasting, like eating balanced meals, staying hydrated, taking short naps, and listening to my body.",P,2
+130,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",We also discussed the importance of Tarawih prayers during this holy month and finding a balance to maintain my spiritual duties while taking care of my physical health.,P,2
+131,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","The person on the chatline was respectful and supportive, offering to help regardless of my background or beliefs.",S,5
+132,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","Then, I opened up about feeling invisible sometimes, like no one really saw me.",P,1
+133,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","I had tried speaking louder to get attention, but it only worked momentarily before I was ignored again.",S,5
+134,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",They reassured me that my efforts were valid and reminded me that my worth isn't defined by the attention I receive from others.,S,5
+135,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","I learned about intrinsic value, which means being valuable just by being myself, independent of others' recognition.",P,1
+136,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","To increase my feeling of self-worth, they suggested acknowledging my achievements, practicing self-compassion, engaging in activities I enjoy, surrounding myself with supportive people, and setting personal goals.",P,2
+137,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",I found this advice very useful and was reminded that building self-worth is a journey that I can take one step at a time.,P,1
+138,"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",They encouraged me to reach out whenever I needed more support or had further questions.,S,5
+139,"Wed, 28 Feb 2024 09:57:36 GMT","I've been feeling aimless and see no point in living, which led me to seek someone to talk to.",P,2
+140,"Wed, 28 Feb 2024 09:57:36 GMT",I was reassured that it was okay to feel this way and was encouraged to share more about my feelings.,S,5
+141,"Wed, 28 Feb 2024 09:57:36 GMT","I admitted that I find no joy in anything I do, which was acknowledged as a deep sense of disconnection from activities I once enjoyed.",P,2
+142,"Wed, 28 Feb 2024 09:57:36 GMT","I was thanked for being brave enough to express how I was feeling, but I couldn't shake the worry that something might be wrong with me.",P,2
+143,"Wed, 28 Feb 2024 09:57:36 GMT","To better understand my situation, I was asked a series of questions about my feelings over the past four weeks.",S,5
+144,"Wed, 28 Feb 2024 09:57:36 GMT","I felt tired most of the time, a little nervous, but never so nervous that nothing could calm me down.",P,2
+145,"Wed, 28 Feb 2024 09:57:36 GMT","I felt hopeless all of the time, sometimes restless or fidgety, but never so restless I couldn't sit still.",P,2
+146,"Wed, 28 Feb 2024 09:57:36 GMT","I was depressed most of the time, felt that everything was an effort all of the time, and was so sad that nothing could cheer me up most of the time.",P,2
+147,"Wed, 28 Feb 2024 09:57:36 GMT",I also felt worthless all of the time.,P,2
+148,"Wed, 28 Feb 2024 09:57:36 GMT","When I expressed frustration at just being asked questions without receiving help, I was offered suggestions to get out of this state, such as seeking professional help, connecting with others, focusing on self-care, and setting small, achievable goals.",S,5
+149,"Wed, 28 Feb 2024 09:57:36 GMT","However, feeling overwhelmed by too much information, I asked for a simpler approach.",P,1
+150,"Wed, 28 Feb 2024 09:57:36 GMT","I was then guided to focus on one thing at a time, starting with breathing exercises.",P,2
+151,"Wed, 28 Feb 2024 09:57:36 GMT","When I felt a tightness in my chest, I was advised to find a comfortable place and gently focus on something in my surroundings to ground myself in the present moment.",P,2
+152,"Wed, 28 Feb 2024 09:57:36 GMT","After trying this, I felt a bit better but still struggled with the feeling that nothing matters in life.",P,2
+153,"Wed, 28 Feb 2024 09:57:36 GMT",I was open to exploring ways to find meaning or small things that might bring joy.,P,2
+154,"Wed, 28 Feb 2024 09:57:36 GMT","I recalled enjoying hanging out with friends and was encouraged to take a small step towards reconnecting with them, like sending a simple message.",S,5
+155,"Wed, 28 Feb 2024 09:57:36 GMT",I agreed that sending a message was doable.,P,2
+156,"Wed, 28 Feb 2024 09:57:36 GMT",I was reminded that I'm not alone and that taking even the smallest step is a move in the right direction.,P,1
+157,"Wed, 28 Feb 2024 09:57:36 GMT","I was offered support and reassurance that I could reach out anytime, and I was wished strength and peace.",P,1
+158,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I reached out for help, feeling very tired after days of intense training.",S,5
+159,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","With no time to rest, I had to continue straight to work, which was overwhelming.",P,2
+160,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I hadn't talked to anyone at work about it, feeling ""paiseh"" (embarrassed) to open up, so I sought support here instead.",S,5
+161,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","On top of my busy schedule, I was also fasting and had to perform Terawih prayers at night, which added to my exhaustion.",P,2
+162,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","To better understand my situation, I was asked a series of questions about my feelings over the past four weeks.",S,5
+163,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I felt tired most of the time but wasn't nervous, restless, or depressed.",P,2
+164,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I was just really tired, especially with the fasting and nightly prayers.",P,2
+165,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",Small tasks felt like a big effort because I wasn't getting enough rest.,P,2
+166,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",I was surprised that the person I was talking to knew about fasting and asked if they were Muslim.,S,3
+167,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",They explained that they were familiar with many practices to better assist those who reach out.,S,3
+168,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",I appreciated their understanding and the reminder to take care of myself during this demanding time.,S,5
+169,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I was reassured that I could talk about anything and learned that while they provided support like a counsellor, they weren't a licensed professional.",S,5
+170,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",They suggested reaching out to the Samaritans of Singapore (SOS) for professional counselling if needed.,S,5
+171,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",We connected over a shared understanding of lingos and even exchanged greetings in Arabic.,S,5
+172,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",I expressed my frustration with people often being indifferent ("bo chap") and found it difficult to get their attention.,P,2
+173,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","My parents were supportive, but not many of my friends were.",S,5
+174,"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I was advised to look for like-minded people through community centers, social media, and organizations related to my interests, which I considered trying despite usually being shy.",S,5

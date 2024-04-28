@@ -1,0 +1,435 @@
+questionID,sentence,label,ChatGPT4_label,GPT_accuracy,BERT_label,BERT_accuracy
+0,I have so many issues to address.,N,N,1,P,0
+0,"I have a history of sexual abuse, I¡¯m a breast cancer survivor and I am a lifetime insomniac.",B,B,1,B,1
+0,I have a long history of depression and I¡¯m beginning to have anxiety.,P,P,1,P,1
+0,I have low self esteem but I¡¯ve been happily married for almost 35 years.,S,S,1,S,1
+0,I¡¯ve never had counseling about any of this.,P,P,1,P,1
+0,Do I have too many issues to address in counseling?,N,N,1,N,1
+1,I have been diagnosed with general anxiety and depression by my family doctor.,P,B,0,B,0
+1,"They wrote a prescription for me to have an emotional support dog, I have the paper work, and I gave it to my apartment manager.",P,S,0,P,1
+1,They said I can't keep the ESD because I'm not disabled.,S,S,1,S,1
+1,What do you suggest I do?,N,N,1,N,1
+2,My mother is combative with me when I say I don't want to talk with her about my depression.,S,S,1,S,1
+2,She hasn't been supportive of me in the past and she isn't someone that I feel comfortable opening up to.,S,S,1,S,1
+2,She constantly tries to instigate conversations where she asks me questions that I don't want to or can't answer.,S,S,1,S,1
+2,I tell her I don't want to talk and she starts arguments with me.,S,S,1,S,1
+2,How can I get her to understand?,N,P,0,N,1
+3,There are many people willing to lovingly provide me with a home.,S,S,1,S,1
+3,"I have food, clothes, and a university education, but I never feel like I belong.",B,P,0,B,1
+3,"Even when I have a good time with people who are supposed to be close, I feel like I'm just out with friends and I never go home.",P,P,1,P,1
+4,My girlfriend just quit drinking and she became really depressed.,B,B,1,B,1
+4,She told me that she wants to move.,S,P,0,S,1
+4,What can I do to help her?,N,N,1,N,1
+4,I want her to stay.,S,S,1,S,1
+5,I'm dealing with an illness that will never go away and I feel like my life will never change for the better.,B,B,1,B,1
+5,I feel alone and that i have no one.,P,S,0,P,1
+5,How can I overcome this pain and learn to be happy alone?,P,P,1,P,1
+6,"I feel angry, anxious, and depressed.",P,P,1,P,1
+6,The PTSD I suffer is from a past relationship.,P,P,1,P,1
+7,I had a very troubled up bringing and I'm currently dealing with alot right now.,P,P,1,S,0
+7,"I know some people may not think so, but to me its a lot.",P,P,1,P,1
+7,I feel overwhelmed.,P,P,1,P,1
+7,Could this be depression?,N,P,0,N,1
+7,I use to be in therapy as a child.,P,P,1,P,1
+7,"Alll throughout elementry, middle, and high school I had counseling 2-3 times a week.",P,P,1,P,1
+7,I haven't be in counseling lately though.,P,P,1,P,1
+8,"In the past year, two of my best and only close friends moved to different states.",S,S,1,S,1
+8,Now I have nobody to hang out with.,S,S,1,S,1
+8,"I'm always alone, and I honestly haven't hung out with anyone since they left.",S,S,1,S,1
+8,I'm super lonely.,P,P,1,P,1
+8,What should I do to make new friends?,N,S,0,N,1
+8,"Because they moved and I have no friends now, I think I'm falling into a depression or something.",P,P,1,S,0
+8,I just need help.,S,N,0,S,1
+9,I feel lazy and numb.,P,P,1,P,1
+9,I have no interest in things.,P,P,1,P,1
+10,I don't know how else to explain it.,N,N,1,N,1
+10,"All I can say is that I feel empty, I feel nothing.",P,P,1,P,1
+10,How do I stop feeling this way?,N,P,0,N,1
+11,"A few years ago I was making love to my wife when for no known reason I lost my erection,    Now I'm In my early 30s and my problem has become more and more frequent.",B,B,1,B,1
+11,This is causing major problems for my ego and it's diminishing my self esteem.,P,B,0,P,1
+11,This has resulted in ongoing depression and tearing apart my marriage.,S,P,0,S,1
+11,I am devastated and cannot find a cause for these issues.,P,P,1,P,1
+11,I am very attracted to my wife and want to express it in the bedroom like I used to.,S,P,0,S,1
+11,"What could be causing this, and what can I do about it?",N,S,0,N,1
+12,"I tried telling my husband I was depressed, and he ignored me.",S,P,0,S,1
+12,He said "you're always sad or depressed.",S,P,0,S,1
+12,And he picked up his phone and ignored me.,S,S,1,S,1
+12,"I said, ""Please don't exaggerate, that isn't true.""",S,P,0,S,1
+12,"And he said, ""Whatever babe.",S,S,1,S,1
+12,You just want to be sad.",S,P,0,S,1
+12,How can I get through to him so he will take me seriously?,N,P,0,N,1
+13,Every winter I find myself getting sad because of the weather.,P,B,0,P,1
+13,How can I fight this?,N,N,1,N,1
+14,I'm going through some things with my feelings and myself.,P,P,1,P,1
+14,I barely sleep and I do nothing but think about how I'm worthless and how I shouldn't be here.,P,B,0,P,1
+14,I've never tried or contemplated suicide.,P,P,1,S,0
+14,"I've always wanted to fix my issues, but I never get around to it.",P,P,1,P,1
+14,How can I change my feeling of being worthless to everyone?,N,P,0,N,1
+15,I can't even smile or fake one.,P,P,1,P,1
+15,I can't feel happiness about anything and I can't show love towards another person not even my girlfriend.,S,P,0,S,1
+15,I hate myself sometimes.,P,P,1,P,1
+15,All I see is ugly.,P,P,1,P,1
+15,I can't get over the loss of a loved one and I'm not close to my family.,S,S,1,S,1
+15,What can I do?,N,N,1,N,1
+16,I feel like I'm so alone.,P,S,0,P,1
+16,I treat people horribly based on what's going on in my life and don't realize it.,S,P,0,S,1
+16,"It ends up pushing them away, especially the ones I love the most.",S,S,1,S,1
+16,"I have a weird feeling deep down inside, and it won't go away.",P,P,1,P,1
+16,I feel like I'm collapsing.,P,P,1,P,1
+17,I struggle with depression as well as pretty intense mood swings throughout the month.,P,P,1,P,1
+17,"I experience highs where I feel amazing and energetic and then lows where I lack focus, energy, and generally have a more dark outlook on my life.",P,P,1,P,1
+17,How can I live a more balanced life?,N,N,1,N,1
+18,I¡¯m facing severe depression and anxiety and I just feel like I¡¯m going through a lot.,P,P,1,P,1
+18,This really distracts me and I cant get my mind off the things that are bothering me.,P,P,1,P,1
+18,How do I overcome this anxierty and depression?,N,P,0,N,1
+19,I am the problem.,P,P,1,P,1
+19,I make my family argue because of me.,S,S,1,S,1
+19,My mom has even said it.,S,S,1,S,1
+19,It's constantly like this.,S,N,0,S,1
+19,I cause problems.,P,S,0,P,1
+19,I am worthless.,P,P,1,P,1
+19,I can't stop crying.,B,B,1,P,0
+19,Sometimes I have to cry myself to sleep.,B,B,1,B,1
+19,I can't even leave my room because my family can't stand me.,S,S,1,S,1
+20,I'm in my late teens and live with my dad.,B,S,0,B,1
+20,The only time I go out is for my college classes.,S,S,1,S,1
+20,"Sometimes when I see my friends I want to talk with them, but sometimes I won't want to talk to them for days or even weeks.",S,P,0,S,1
+20,Sometimes I feel i'm not worth knowing or i'm never going to do anything right.,P,P,1,P,1
+20,"Are they right, am I depressed?",N,P,0,N,1
+21,I'm very depressed.,P,P,1,P,1
+21,How do I find someone to talk to?,N,S,0,N,1
+22,I've never been able to talk with my parents.,S,S,1,S,1
+22,My parents are in their sixties while I am a teenager.,B,S,0,S,0
+22,I love both of them but not their personalities.,S,P,0,S,1
+22,I feel that they do not take me seriously whenever I talk about a serious event in my life.,S,S,1,S,1
+22,"If my dad doesn¡¯t believe me, then my mom goes along with my dad and acts like she doesn¡¯t believe me either.",S,S,1,S,1
+22,"I¡¯m a pansexual, but I can¡¯t trust my own parents.",S,S,1,S,1
+22,"I've fought depression and won; however, stress and anxiety are killing me.",P,P,1,P,1
+22,I feel that my friends don't listen to me.,S,S,1,S,1
+22,"I know they have their own problems, which I do my best to help with.",S,S,1,S,1
+22,"But they don't always try to help me with mine, when I really need them.",S,S,1,S,1
+22,I feel as if my childhood has been taken from me.,P,P,1,P,1
+22,I feel as if I have no one whom I can trust.,S,S,1,S,1
+23,"I suffer from adult ADHD, anxiety disorder, and depression.",B,B,1,B,1
+23,It has been difficult to find a doctor in my area and my primary physician won't help.,S,S,1,S,1
+23,I am unemployed and overwhelmed.,S,S,1,S,1
+23,What would you suggest I do?,N,N,1,N,1
+24,I was married to a narcissist sociopath for 10 years.,S,S,1,S,1
+24,During that time I was a general manager.,B,S,0,B,1
+24,I used to help him financially and in other ways when we were together.,S,S,1,S,1
+24,But things began to change.,N,N,1,N,1
+24,He emotionally and sexually drained me.,S,P,0,S,1
+24,I lost my spirit.,P,P,1,P,1
+24,I used to be a very happy person but now I am a loner.,P,P,1,P,1
+24,I left him and moved to another state.,S,S,1,S,1
+24,"Currently, I'm working as a server which makes me believe less in myself.",B,P,0,B,1
+24,I feel pity for myself a lot but don't know what to do.,P,P,1,P,1
+24,"When I have money problems, he does not help me.",B,S,0,S,0
+24,He actually enjoys seeing me have a hard time in my life.,S,P,0,S,1
+24,I need help.,S,N,0,S,1
+25,"I have bipolar disorder, paranoid personality disorder, posttraumatic stress disorder, anxiety and obsessive-compulsive disorder.",B,B,1,B,1
+25,I last self-harmed a week ago.,P,P,1,P,1
+25,"When I am stressed, overwhelmed, hurt, or angry, the urge to self-harm is all I can think of.",P,P,1,P,1
+25,I am trying to seek help.,S,P,0,S,1
+26,I just feel sad all the time and I don't like anyone in my family.,P,P,1,P,1
+26,I feel like they're trying to control me and won't let me grow.,S,S,1,S,1
+27,I'm starting to think that I might have depression.,P,P,1,P,1
+27,"The thing is though, I'm not exactly sad.",P,P,1,P,1
+27,"I can joke with my friends and stuff, but I've stopped caring about my work, and I've been starting to think that life is pointless.",P,P,1,P,1
+27,"I really have no clue if I need help, or if I'm just tired or something.",P,N,0,P,1
+28,I've had posttraumatic stress disorder for years without my parents ever finding out.,B,P,0,S,0
+28,"I want to overcome it, but it¡¯s so vivid, it¡¯s like it¡¯s happening again.",B,P,0,P,0
+28,I'm scared and paranoid.,P,P,1,P,1
+28,"I have depression, which I have been struggling with since a young age.",P,P,1,P,1
+29,I have twin toddlers.,S,S,1,S,1
+29,I experienced a death of loved one prior to giving birth.,P,P,1,S,0
+29,I had a horrible break up with the father.,S,P,0,S,1
+29,People told him he was using me for money.,S,S,1,S,1
+29,My ex-boyfriend had extreme meltdowns every day for three years.,S,P,0,S,1
+29,I¡¯m always alone with no friends.,S,S,1,S,1
+30,"In the last ten months, I've been kicked out, moved around three times, worked many jobs, stopped school to make money, had dad and mom get sick, was cheated on while pregnant, lost my baby, had relationship issues, and was betrayed.",S,S,1,S,1
+30,I can't get a job.,B,S,0,B,1
+30,I have no friends.,S,S,1,S,1
+30,I feel lonely and isolated.,P,P,1,P,1
+30,I've been dealing with all this by myself.,S,P,0,S,1
+31,"I don't know if I have depression, but I have been very sad.",P,P,1,P,1
+31,There are nights that I don't sleep.,B,B,1,B,1
+31,"I don't eat all day sometimes, I don't have energy to anything anymore.",P,B,0,P,1
+32,My motivation has gone away.,P,P,1,P,1
+32,It's hard to get out of bed.,P,B,0,P,1
+32,I really don't know what to do anymore.,N,P,0,N,1
+32,I'm miserable.,P,P,1,P,1
+32,My anxiety and depression have taken over my life.,P,P,1,P,1
+33,I'm in my early 20s.,B,N,0,B,1
+33,I've worked since two months after I turned 18.,B,S,0,B,1
+33,"I have ¡°plans.¡± I could become an electrician, or I could operate heavy machinery.",B,P,0,B,1
+33,"I have goals, but I do nothing to try to meet them because I don't feel I can.",P,P,1,P,1
+33,I just want a better life for my fianc¨¦e and the kids than I did.,B,S,0,S,0
+34,I'm in my mid 20s with a husband and children.,S,S,1,S,1
+34,"I love my family, but I feel like I've lost my identity, and I don't know who I am other than a mom and wife.",P,P,1,P,1
+34,"At times, all I can think is what I gave up and how I feel unhappy and trapped, but I know I'd feel like worse without them.",P,P,1,P,1
+34,I loathe myself at times.,P,P,1,P,1
+34,"I have an amazing life, so why can't I just enjoy it?",P,P,1,P,1
+35,I stress over everything.,P,P,1,P,1
+35,"If I don't have enough ""quality time"" with my boyfriend, I start to feel resentment towards him.",S,P,0,S,1
+35,"He has three children, and they are great kids, but I find we don't have much time together.",S,S,1,S,1
+35,I break down easily and find myself depressed.,P,P,1,P,1
+36,"I'm currently up paranoid about, well, everything.",P,P,1,P,1
+36,"I can't get to sleep, and I have a feeling of being watched constantly.",B,P,0,B,1
+36,I have extreme depression and anxiety.,P,P,1,P,1
+36,I'd really like to not be this paranoid and go to bed.,P,P,1,P,1
+36,"I've tried night lights, ambiance, and warm baths.",N,B,0,N,1
+37,I have an alcoholic son who is draining me financially.,S,S,1,S,1
+37,"I want to get him help, but he doesn't want help.",S,P,0,S,1
+37,It's making me anxious and depressed.,P,P,1,P,1
+38,"I'm currently struggling with diagnosed depression, anxiety, and Misophonia.",P,B,0,P,1
+38,"Also, I am 99% sure I have Borderline Personality Disorder and Avoidant Personality Disorder.",P,P,1,P,1
+38,"I read the DSM-IV, taken college psychology, etc.",B,N,0,B,1
+38,I know it in my heart I have them.,P,P,1,S,0
+38,Is self-diagnosing okay with the right research?,N,N,1,N,1
+39,I am pretty sure I have depression and anxiety.,P,P,1,P,1
+39,I also have voices in my head.,P,P,1,P,1
+39,I have problems sleeping too.,B,B,1,B,1
+39,I've already been diagnosed with attention-deficit disorder and obsessive-compulsive disorder.,B,P,0,B,1
+39,I have self-harmed in the last and used to be suicidal.,P,P,1,P,1
+39,How do I tell them this and ask for therapy?,N,N,1,N,1
+40,I think adult life is making him depressed and we often sleep in on weekends untill 1 or 2 pm.,P,P,1,P,1
+40,"We just eat, smoke weed, watch movies, and he'll go on his phone all day.",S,B,0,S,1
+40,He doesn't seem motivated to do much and he's often angry.,S,P,0,S,1
+40,"I have no clue how to help him take his mind off the negative, or to distract him into a different light.",P,N,0,P,1
+40,How do I help him?,N,N,1,N,1
+41,"I can't seem to feel any emotion except anxiety, not even for myself.",P,P,1,P,1
+42,I have been falling into a deep depression where I can no function during the day and night.,P,P,1,P,1
+42,The only time I am at peace is when I¡¯m asleep.,P,P,1,P,1
+42,"If I am with friends, family, at work, and mainly alone, I cannot think straight.",S,P,0,S,1
+42,I no longer feel like myself.,P,P,1,P,1
+43,I have been feeling more and more down for over a month.,P,P,1,P,1
+43,"I have started having trouble sleeping due to panic attacks, but they are almost never triggered by something that I know of.",B,B,1,B,1
+44,I have terrible anxiety and depression.,P,B,0,P,1
+44,"I've tried various therapists and pills, but nothing's helped.",B,P,0,B,1
+45,"After he got home from the hospital he was angry, then for a time wonderful.",P,P,1,P,1
+45,Now he is depressed and hopeless again.,P,P,1,P,1
+46,I am going through a divorce.,S,S,1,S,1
+46,He is extremely angry.,P,P,1,P,1
+46,He refuses to physically assist me with our teenager daughter.,S,S,1,S,1
+46,I have no extended family support.,S,S,1,S,1
+46,"Often times, I feel overwhelmed, tired, and joyless.",P,P,1,P,1
+46,"I feel out of control, sad and depressed on a daily basis.",P,P,1,P,1
+46,I am just going through the motions of life every day.,P,P,1,P,1
+46,I am in my mid-50s.,B,B,1,B,1
+46,I have almost 29 years on my job.,S,S,1,S,1
+46,How can I handle this?,N,N,1,N,1
+48,She has trouble falling and staying asleep and she's always either extremely hungry or not hungry at all.,B,B,1,B,1
+48,She also gets angry and feels like crying really easily for no reason.,B,P,0,B,1
+48,She says she is always "kind of down.",P,P,1,S,0
+48,Is this depression?,N,N,1,N,1
+48,What can I do to help her?,N,N,1,N,1
+49,How can I get to a place where I can be content from day to day?,P,P,1,P,1
+50,I have a severe back problem.,B,B,1,B,1
+50,"I've had 3 major and several minor operations, but I'm still in constant pain.",B,B,1,B,1
+50,How can I deal with the depression from this chronic pain?,B,P,0,N,0
+51,"I self-harm, and I stop for awhile.",P,P,1,P,1
+51,"Then when I see something sad or depressing, I automatically want to self-harm.",P,P,1,P,1
+52,"It's not entirely true to say I enjoy being sad, but I always find a way to feel that way.",P,P,1,P,1
+52,"I listen to sad music, read tragic stories, and, in a twisted way, like how bad it makes me feel.",P,P,1,P,1
+52,I focus on negative aspects of my life even if they aren't legitimate or I just make it seem negative.,P,P,1,P,1
+53,I just don't know what I want in life anymore.,P,P,1,P,1
+53,I'm can't figure out what it is that is keeping me distracted and unfocused.,B,P,0,P,0
+53,I can't put things into perspective at all.,B,P,0,B,1
+53,"I'm just stuck, and I'm disappointed with my lack of accomplishments.",P,P,1,P,1
+55,"I'm not suicidal and wouldn't take my own life, but sometimes, I've wished for an accident to occur and take it.",P,P,1,P,1
+55,I feel like I just shouldn't be here and wish I wouldn't have been born so I didn't have to go through life.,P,P,1,P,1
+55,"For me, it's a chore, but I don't know if that's normal or a sign of something.",P,P,1,P,1
+56,I'm a teenager.,B,N,0,B,1
+56,My dad has been jail for the last five years.,S,S,1,S,1
+56,"It's tough, but my mom really tries to give a normal life to my two sisters, my brother, and I. I feel like I took upon a parent role when I'm the second youngest, and I'm not stable.",S,S,1,S,1
+56,My mother and sisters say I'm overdramatic.,S,P,0,S,1
+56,"I¡¯m just so hurt, and I keep breaking down.",P,P,1,P,1
+57,I have been dealing with depression and anxiety for a number of years.,P,P,1,P,1
+57,"I have been on medication, but lately my depression has felt worse.",B,B,1,B,1
+57,Can counseling help?,N,P,0,N,1
+58,I am really worried about one of my friends because I think he has major depression.,S,P,0,S,1
+58,He disagrees with me on that.,S,P,0,S,1
+58,He is shut off when it comes to talking to people and telling them how he really feels.,S,S,1,S,1
+58,He told me he feels empty inside and the only emotions he feels are anger and sadness.,P,P,1,P,1
+58,I suggested to him to get help and talk to his mom about it but he refuses.,S,P,0,S,1
+59,"After my aunt passed away, I feel like I'm a different person.",S,P,0,S,1
+59,I don't talk to my friends really.,S,S,1,S,1
+60,I've become so jaded that I can't control my thoughts.,B,P,0,P,0
+60,I cannot focus on anything and been having anxiety attacks.,B,P,0,B,1
+61,"When I get around a particular person or when I go home, I'm just sad or irritated.",P,S,0,P,1
+61,The feeling comes and goes all day every day.,P,P,1,P,1
+61,I don't know what wrong.,N,N,1,N,1
+61,I'm not sure if I'm just making up symptoms and problems in my head or if there is something actually wrong.,N,P,0,N,1
+62,I am a teenager.,B,N,0,B,1
+62,I have been experiencing major episodes of depression (if that's even what it is) for several years.,P,P,1,P,1
+62,It¡¯s always getting worse.,P,P,1,P,1
+62,"I have been having panic attacks, feeling like I can't control my fears, and I can't even bring myself to care if I live or die anymore.",P,P,1,P,1
+62,The problem is that I don't know who to ask for help.,S,S,1,P,0
+62,"When I try to talk to my parents, I freeze completely and can't do anything but make a joke because never once in my life have we talked about our feelings.",S,S,1,S,1
+63,"I'm depressed often, and my mind goes a million miles a minute.",P,P,1,P,1
+63,"Every once in a while, things are okay for a few days.",P,P,1,P,1
+63,"After a bit, I start noticing that I am picking at my skin profusely.",B,B,1,P,0
+63,"After roughly a week, the anxiety is back and still picking.",P,P,1,P,1
+63,Sometimes I find myself causing fights to have change.,P,S,0,P,1
+64,I'm constantly in a bad mood and I have no energy.,P,B,0,P,1
+64,Is that depression?,N,N,1,N,1
+65,I'm a teenager and I I go through periods of moodiness.,P,P,1,P,1
+65,"I have extreme feelings (but I bury them), and then I feel nothing - just empty and emotionless.",P,P,1,P,1
+65,"I have trust issues, low self esteem,ban extreme fear of abandonment, and I constantly reevaluate my relationships.",P,P,1,P,1
+65,I also don't know who I am as a person.,P,P,1,P,1
+65,"I'm not happy overall, but I'm not suicidal.",P,P,1,P,1
+65,Can I just feel happy?,N,P,0,N,1
+66,I know I need to deal with my depression.,P,P,1,P,1
+66,But I don't know how and I don't want to tell anyone.,S,S,1,P,0
+66,How can I deal with depression without telling anyone?,N,S,0,N,1
+67,How do I make myself happy without the people who made me happy?,S,P,0,S,1
+67,"Now that they¡¯re gone, I feel sad.",S,P,0,S,1
+67,It¡¯s been two months now but I seem to be unable to stay okay and independent.,P,P,1,P,1
+68,I feel like I am internally screaming all the time.,P,P,1,P,1
+68,"Externally, I am calm, but I have this intense, unidentifiable emotion constantly.",P,P,1,P,1
+68,I don't feel sad.,P,P,1,P,1
+68,I don't cry a lot.,P,P,1,P,1
+68,I feel rather emotionally distant other than the internal screaming.,P,P,1,P,1
+68,It kind of feels like I'm a caged animal.,P,P,1,P,1
+69,"People who are parental figures in my life have, in the past, hurt me, and some continue to do so.",S,S,1,S,1
+69,It makes me feel like I'm not good enough for my husband or the life he provides me.,P,P,1,P,1
+69,"I have had jobs, but I am going through a lot of my past garbage and trying to figure out when it all went wrong.",P,P,1,P,1
+69,"Any time I bring these things up, I am expected to be over the issue.",P,S,0,P,1
+69,"These are people that you can't just cut out, but I have never received apologies for so much of my pain.",S,S,1,S,1
+69,I don't know what to do any more.,P,P,1,P,1
+69,I don't know who I am anymore.,P,P,1,P,1
+70,I am going through a very hard time and I'm so depressed.,P,P,1,P,1
+70,My parents are getting a divorce and a lot of bad things are happening.,S,S,1,S,1
+70,I want to lull myself.,P,P,1,P,1
+71,My depression has been reoccurring for a long time.,P,P,1,P,1
+71,It all started when I was being bullied in high school.,S,S,1,S,1
+71,"In ninth grade, my principal told me I needed to stay home for a couple days to protect myself while she spoke to my classmates.",S,S,1,S,1
+71,I needed professional help for my stress because I was having crying spells from the stress of going to school and confronting my classmates.,P,P,1,P,1
+71,"After that, I was fine for a couple of years.",P,N,0,P,1
+71,I entered my first year of college in a really tough program with high demands of expected work.,B,S,0,B,1
+71,I believe my depression re-booted from there with the stress.,P,P,1,P,1
+71,I began to cut myself because a friend of mine at the time told me how she used to do the same and it used to feel good for her.,S,S,1,S,1
+71,"Obviously, that wasn't the right choice.",P,N,0,P,1
+71,"I regret ever doing that, seeing as even though I'm not self-harming anymore, I always look back at that time whenever I feel very stressed.",P,P,1,P,1
+71,I have a big problem with handling problems in life.,P,P,1,P,1
+71,"Whenever a problem arises, I get stressed and I feel hopeless, as if it's not going to get better.",P,P,1,P,1
+71,"I get way too stressed from my problems, which leads to overreacting a lot (especially when talking to others), which then leads to depression.",P,P,1,P,1
+71,"I have a hard time coping with stress because I know that if I could handle it easily then I wouldn't be sad all the time, and I would say and do the right thing instead of overreacting to my loved ones.",P,P,1,P,1
+72,I've been depressed for quite a while.,P,P,1,P,1
+72,"I've been trying to work through it, and my boyfriend has been my rock.",S,S,1,S,1
+72,"He is honestly the only person I trust enough to talk to about anything, but he decided to break up with me because of my depression.",S,S,1,S,1
+72,"I cannot afford to see a therapist or anything, so he saw no hope in staying with me.",S,S,1,S,1
+72,"My insurance has a $5000 deductible, so I¡¯m screwed.",S,S,1,S,1
+72,I've had everything from suicidal thoughts to trying to quit my job.,B,P,0,B,1
+72,I have no one.,S,S,1,S,1
+72,My family doesn't care about me; they kicked me out when I turned 18 a few years ago.,S,S,1,S,1
+72,"I had friends, but they have all moved on with their lives and have no time for me.",S,S,1,S,1
+72,"My ex-boyfriend is trying to help but is making things worse because every time I see or hear him, I break down into tears.",S,S,1,S,1
+72,I found out that I will never be promoted now because of my depression.,P,S,0,P,1
+73,I always feel like I'm doing something wrong.,P,P,1,P,1
+73,Everything I do is crappy.,P,P,1,P,1
+73,I want to cry all the time.,P,P,1,P,1
+73,I can't eat or sleep.,B,B,1,B,1
+74,"I no longer carry expressions on my face, and my emotions are decreasing the more I have fights with my fianc¨¦e.",P,B,0,P,1
+75,I'm depressed.,P,P,1,P,1
+75,I have been for years.,P,P,1,P,1
+75,I hide it from everyone because I'm scared of the reactions I'll get.,S,P,0,S,1
+75,"Last time I tried telling my parents, it was a huge argument about me being too young to be depressed (I¡¯m a legal adult), calling me ungrateful, and telling me that if I can't handle things now, it's only going to get worse in the future (which is turning out to be true).",S,S,1,S,1
+75,"It's exhausting pretending to be okay, and I don't know how much longer I can try.",P,P,1,P,1
+75,"I'm just really tired, and sadly, I can't afford the help I need on my own.",S,S,1,S,1
+76,He said he would try and he never did.,S,S,1,S,1
+76,"It's been nine months, and this is making me worse.",S,P,0,S,1
+76,"Today, he said I have to respect whatever decision he makes.",S,S,1,S,1
+76,Is that true?,N,N,1,N,1
+76,Am I supposed to respect the decision to leave because he can't handle what I'm going through and leaves me here crying and worried every night?,S,S,1,P,0
+76,He's constantly changing his mind on if he wants to work it out.,P,S,0,P,1
+77,I'm in my late 50s.,B,B,1,B,1
+77,I never loved or have been loved.,S,S,1,S,1
+77,"I need deeper help than is offered in my small town, but I cannot leave this town because of agoraphobia.",S,P,0,S,1
+77,I find myself losing hope more and more.,P,P,1,P,1
+77,"My brain barely works anymore, and my memory so small, I forget in a moment.",B,B,1,B,1
+77,I serve no purpose.,P,P,1,P,1
+77,"I'm incapable of work or anything of value, and I never have been.",P,P,1,P,1
+77,"I¡¯m a complete waste of time and resources, and yet I keep trying.",P,P,1,P,1
+77,Why?,N,N,1,N,1
+77,Why does God insist that I continue to exist?,P,S,0,N,0
+77,"I¡¯m not suicidal, just tired.",P,P,1,P,1
+78,"Both of my parents committed suicide together, and I was the one who found them.",S,P,0,S,1
+78,"I suffer from overwhelming depression, which is having an extreme effect on me and my husband¡¯s sex lives.",P,B,0,P,1
+78,He does not understand at all and is always making me feel so uncomfortable about sex.,S,S,1,S,1
+79,I'm depressed and recently went through a break up.,S,P,0,S,1
+79,It¡¯s like every guy I like only wants me for sex.,S,S,1,S,1
+79,"I think I'm ugly, and sometimes I just want to die.",P,P,1,P,1
+79,"I have a son, and I got really big when I was pregnant.",S,B,0,S,1
+79,I have stretch marks on my stomach.,B,B,1,P,0
+80,"I'm not the same anymore, I don't know how to get back to who I am.",P,P,1,P,1
+80,I'm sad and confused and angry and tired.,P,P,1,P,1
+80,I don't sleep well.,B,B,1,B,1
+81,"Over the years, I have slowly lost everything: my jobs, my cars, my freedom, and my money.",B,S,0,B,1
+81,"I am a stay-at-home mom who doesn't make any money, doesn't have a car, never goes out, and cleans all day long everyday.",B,S,0,S,0
+82,I don't have time to live or take care of myself at times.,B,P,0,B,1
+82,"It's causing depression, stress, and anxiety.",P,P,1,P,1
+82,I don't know what to do.,N,N,1,N,1
+83,"Two years ago, I was separated from the military into my contract for medical issues.",B,B,1,B,1
+83,It has emotionally destroyed me.,P,P,1,P,1
+83,I now basically hate myself.,P,P,1,P,1
+83,It's embarrassing to be separated from the one place who takes anyone.,P,P,1,P,1
+83,"My family has been in the armed forces, and it has always been my dream.",S,S,1,S,1
+83,"I can't do this alone anymore, and now my family is even worried.",S,S,1,S,1
+84,I feel depressed even though I act like a happy with my family.,P,P,1,P,1
+84,I act like I¡¯m happy so my son doesn¡¯t see me sad.,S,S,1,S,1
+84,"I act like my life is a happy life, but I feel sad and depressed.",P,P,1,P,1
+84,I sometimes think of killing myself and that my family deserve someone better than me.,P,P,1,P,1
+84,I just cry and write in my book all these feelings.,B,P,0,P,0
+85,"I think i may suffer from depression, and it is affecting my life and sleep.",P,P,1,P,1
+85,"I am on my parent's insurance, and they won't let me see a therapist because they don't believe in it.",S,S,1,S,1
+86,"When I'm sad and alone, I want to cut myself.",P,P,1,P,1
+87,"I stopped for a while, but I¡¯ve started doing it again.",P,P,1,P,1
+87,It¡¯s like an addiction.,P,P,1,P,1
+87,"The more I try to stop, the more I want to do it.",P,P,1,P,1
+87,"I¡¯ve tried doing some of the stuff they say to do like draw, but it doesn¡¯t work.",B,P,0,S,0
+88,"I have friends, family, I live in a good home, I go to a nice high school, and I get pretty good grades, but I don¡¯t know why I'm so unhappy.",B,S,0,B,1
+88,"These friends are my best friends and they¡¯re all amazing people, and yet I'm sad all the time and feel alone.",S,P,0,S,1
+89,"I used to be the funny guy of the group¡ªthe class clown, if you will.",S,S,1,S,1
+89,I used to laugh uncontrollably all the time and be able to be social without it feeling awkward.,S,P,0,S,1
+89,"Now I can't laugh at all, and I'm dead inside.",P,P,1,P,1
+90,"I've been feeling worthless, unaccomplished, and so frustrated.",P,P,1,P,1
+90,"I want to break things, hit myself, run away, kick, scream, and cry.",B,P,0,B,1
+90,I just want to be happy and outgoing again.,P,P,1,P,1
+90,I want to be able to take care of my daughter and live comfortably.,S,S,1,S,1
+91,I keep feeling paralyzed and unsure during interviews.,P,P,1,P,1
+91,"Previous jobs have fired me for lack of performance, and five employers have rejected me after extensive personality tests and interviews.",B,S,0,B,1
+91,I'm afraid of continuing because my depression is getting worse.,P,P,1,P,1
+91,I'm already humiliated working for temp agencies and doubt my self-worth as a provider for my family.,P,P,1,P,1
+92,I feel like I am not at a good state of mind.,P,P,1,P,1
+92,I'm very unsettled in my soul.,P,P,1,P,1
+92,"I'm not happy with myself or the decisions I make, which makes me not happy with anyone else.",P,P,1,P,1
+92,I feel like a failure most of my days.,P,P,1,P,1
+92,I don't feel like I'm good at anything anymore.,P,P,1,P,1
+92,I feel like less of a person.,P,P,1,P,1
+93,I am not sure if I am depressed.,N,P,0,N,1
+93,"I don't know how to bring it up to my parents, and that makes me miserable.",S,S,1,P,0
+94,I have absolutely nothing to do with my life but lay in bed on my phone or hangout with my one friend.,S,P,0,S,1
+94,"I don't have a job, my family doesn't include me in anything, and I don't have many friends.",S,S,1,S,1
+94,I have nothing to do besides go on my phone.,S,P,0,S,1
+94,I miss talking to people in person instead of online.,S,S,1,S,1
+94,I don't even talk to my family in person even from the other room.,S,S,1,S,1
+95,I sleep a lot.,B,B,1,B,1
+95,Music changes my mood.,P,P,1,P,1
+95,I cry every Wednesday.,B,P,0,P,0
+95,My mind is like a maze that even I get lost in.,P,P,1,P,1
+95,"I don't usually feel my true emotions, but instead, I get fake mirrored ones.",P,P,1,P,1
+96,I live a normal life.,N,N,1,P,0
+96,"I have tons of friends and family, but I feel lonely.",S,P,0,S,1
+97,I started having anxiety three months ago.,P,B,0,P,1
+97,"I'm new to having anxiety, and it's making me depressed.",P,P,1,P,1
+98,"I have no friends, no hobbies, and no interest in anything.",S,P,0,S,1
+98,I get annoyed with everything and everyone.,P,P,1,P,1
+98,"I am always tired, i can sleep 8 hrs or 12 hrs and im still tired.",B,B,1,B,1
+98,I don't know what to do.,N,P,0,N,1
+98,Is this normal?,N,N,1,N,1
+99,"I have a lot on my mind, but all I want to do is stay locked in my room and not socialize with anyone.",S,P,0,S,1
+99,Why do I feel so alone?,N,P,0,N,1
+101,My dad passed away when I was a teenager.,S,P,0,S,1
+101,"I never got any help, and five years later, I feel like I can't handle it anymore.",P,P,1,S,0

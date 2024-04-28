@@ -1,0 +1,101 @@
+narrativeID,sentence,label,BERT_label,Fine_grained_label
+"Mon, 26 Feb 2024 13:30:14 GMT","I reached out for support because my dog passed away, and I've been feeling really sad.",,P,2
+"Mon, 26 Feb 2024 13:30:14 GMT","The loss has hit me hard, and I've been struggling with my emotions.",,P,2
+"Mon, 26 Feb 2024 13:30:14 GMT",I was informed that my answers would be crucial in assessing my emotional state.,,P,2
+"Mon, 26 Feb 2024 13:30:14 GMT",The assessment started with a question about how often I've felt tired for no good reason in the past four weeks.,,P,2
+"Mon, 26 Feb 2024 13:30:14 GMT",I admitted to feeling that way a little of the time.,,P,2
+"Mon, 26 Feb 2024 13:30:14 GMT","When asked to try again, I was presented with the next question, which was about how often I've felt nervous during the same period.",,P,2
+"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT","I admitted to feeling lost, very tired, and having no motivation to do my homework.",,P,2
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",I confessed that I've been feeling devastated.,,P,2
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","When asked how often I had felt tired out for no good reason in the past four weeks, I replied that it happened quite a lot.",,P,2
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They noted that it seemed like I felt this way 'most of the time'.,,P,2
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",I admitted to feeling tired very often and also really nervous.,,P,2
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","I've frequently felt so nervous that nothing could calm me down, and I've felt hopeless quite a lot of the time.",,P,2
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","When asked about restlessness, I said I felt somewhat fidgety and a bit like I couldn't sit still.",,P,2
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",Depression has been a big part of my life recently; I've felt depressed a lot.,,P,2
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","Everything has seemed like an effort, and I've been so sad that nothing could cheer me up, feeling this way all the time.",,P,2
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",I also confessed to feeling worthless a lot.,,P,1
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","I've found it hard even to get out of bed, and I've been feeling like there's no purpose in life anymore.",,P,1
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",I admitted to feeling tired most of the time and feeling nervous quite often.,,P,2
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","However, I haven't felt hopeless too much, which is a small relief.",,P,2
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","I've also felt quite restless and fidgety, but not to the point where I couldn't sit still.",,P,2
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",Depression has hit me hard; I've felt depressed a lot and often felt that everything was an effort.,,P,2
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",I've been so sad that nothing could cheer me up very often.,,P,2
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","I feel somewhat worthless, which is a difficult thing to admit.",,P,2
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","I was curious about my score from these questions, hoping to understand how to get support, but unfortunately, there was an issue, and I couldn't get my score at that moment.",,P,1
+"Mon, 26 Feb 2024 13:48:18 GMT",I reached out because I'm stressed.,,P,2
+"Mon, 26 Feb 2024 13:48:18 GMT","I was asked about how often I've felt tired, nervous, or so nervous that nothing could calm me down in the past four weeks.",,P,2
+"Mon, 26 Feb 2024 13:48:18 GMT","I admitted to feeling tired and nervous a little and some of the time, respectively, and quite a lot when it came to being so nervous that nothing could calm me down.",,P,2
+"Mon, 26 Feb 2024 13:48:18 GMT","However, I haven't felt hopeless, restless, or fidgety at all, which was a relief.",,P,2
+"Mon, 26 Feb 2024 13:48:18 GMT",I did feel a little restless to the point of not being able to sit still and moderately depressed.,,P,2
+"Mon, 26 Feb 2024 13:48:18 GMT","Everything felt like an effort a little of the time, but thankfully, I haven't felt so sad that nothing could cheer me up or worthless.",,P,2
+"Mon, 26 Feb 2024 13:48:18 GMT","After answering all the questions, I was told that my total score suggested I was 'psychologically well,' indicating that despite the stress, I was managing relatively well psychologically.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT","The moment I knew I needed help was when I experienced seven different emotions within an hour, ranging from sadness to laughter.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT","On top of that, I've been dealing with personal emotional issues.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT","At work, I've tried to compartmentalize my emotions, pushing thoughts away to feel numb, but it's not working.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT",My performance has suffered; I'm making mistakes on tasks I've done countless times before.,,P,1
+"Wed, 28 Feb 2024 06:50:55 GMT",I question myself constantly but find no answers.,,P,1
+"Wed, 28 Feb 2024 06:50:55 GMT","I can't focus, and there are days when I'm physically present but can't remember what I did.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT",I was told that changing jobs is a significant stressor and that it's normal to feel overwhelmed.,,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT",It's also concerning to experience such a wide range of emotions so frequently.,,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT",The strategy of compartmentalizing emotions at work can be exhausting and isn't always effective.,,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT",I was reminded that seeking help is a strong step towards understanding and managing these feelings.,,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT","I felt tired only a little, wasn't nervous at all, and didn't experience extreme nervousness since I usually listen to my favorite songs to calm down.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT","I haven't felt hopeless, which is a positive sign.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT","I've felt a little restless and fidgety, but not to the point where I couldn't sit still.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT","I haven't felt depressed, and while I believe everything requires effort, I admitted that sometimes tasks felt more difficult than usual.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT","I've felt a little sad, but not to the point where nothing could cheer me up, and I haven't felt worthless.",,P,2
+"Wed, 28 Feb 2024 06:50:55 GMT",It was emphasized that this assessment should be considered within the broader context of my life and experiences and interpreted by a qualified individual.,,P,1
+"Wed, 28 Feb 2024 06:50:55 GMT","Wondering what to do next, I was advised to continue seeking professional support, incorporate self-care practices, build a support system, and set small, achievable goals.",,P,1
+"Wed, 28 Feb 2024 06:50:55 GMT","Moving forward involves following up with mental health professionals, exploring support networks, and engaging in activities that bring me joy.",,P,2
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","I've been feeling aimless in life lately, seeing no point in living.",,P,2
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","I've been unable to find joy in anything I do, and I'm not sure why.",,P,2
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","I admitted to feeling tired most of the time and a little nervous, but I haven't felt so nervous that nothing could calm me down.",,P,2
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","The feeling of hopelessness has been constant, and I've felt restless sometimes, though not to the point where I couldn't sit still.",,P,2
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","Depression has been a frequent visitor, and I've felt that everything was an effort all of the time.",,P,2
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","Sadness has been my companion most of the time, making me feel worthless.",,P,1
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","After sharing my feelings, I was told that my score indicated a high level of psychological distress and that it would be best to seek professional support.",,P,2
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT",I was reassured that reaching out for help is a brave step towards feeling better and that I'm not alone in this.,,P,1
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT",I was reminded that it's okay to not be okay and that asking for help is a sign of strength.,,P,1
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","In the end, I asked for coping strategies to help me manage until I could get professional help.",,P,1
+"Thu, 29 Feb 2024 02:06:00 GMT","I felt like I was going crazy, hearing voices in my head that were harsh and critical, and I couldn't stop them.",,P,1
+"Thu, 29 Feb 2024 02:06:00 GMT","I felt tired sometimes, nervous a lot of the time, and most of the time, I was so nervous that nothing could calm me down.",,P,2
+"Thu, 29 Feb 2024 02:06:00 GMT","I felt hopeless and restless most of the time, and I was depressed and felt that everything was an effort.",,P,2
+"Thu, 29 Feb 2024 02:06:00 GMT","Sometimes, I felt so sad that nothing could cheer me up, and I felt worthless all of the time.",,P,1
+"Thu, 29 Feb 2024 02:06:00 GMT","I found that turning up loud music sometimes helped to drown them out, but I couldn't always do that.",,P,2
+"Thu, 29 Feb 2024 02:06:00 GMT","I was offered various coping strategies, such as mindfulness, meditation, physical activity, creative outlets, and talking to someone.",,P,2
+"Thu, 29 Feb 2024 02:06:00 GMT","I was open to giving these a try, understanding that not everything might work right away.",,P,1
+"Thu, 29 Feb 2024 02:06:00 GMT","I had asked if I was going crazy, and I was reassured that experiencing such things didn't mean I was going crazy.",,P,2
+"Thu, 29 Feb 2024 02:06:00 GMT",It was a sign that I was facing difficulties and that seeking help was a strong and positive step.,,P,2
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",I didn't get a chance to rest because I had to go back to work immediately after the trainings.,,P,2
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","The exhaustion was compounded by the fact that it was also the fasting month, which meant I had to manage work, training, and fasting all at once.",,P,2
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","I knew I couldn't skip fasting despite the tiredness, and I admitted to feeling tired most of the time.",,P,2
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","However, I didn't feel nervous, restless, hopeless, or depressed.",,P,2
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",I was just physically worn out.,,P,2
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","They offered me some practical tips for managing tiredness during fasting, like eating balanced meals, staying hydrated, taking short naps, and listening to my body.",,P,2
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",We also discussed the importance of Tarawih prayers during this holy month and finding a balance to maintain my spiritual duties while taking care of my physical health.,,P,2
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","Then, I opened up about feeling invisible sometimes, like no one really saw me.",,P,1
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","I learned about intrinsic value, which means being valuable just by being myself, independent of others' recognition.",,P,1
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","To increase my feeling of self-worth, they suggested acknowledging my achievements, practicing self-compassion, engaging in activities I enjoy, surrounding myself with supportive people, and setting personal goals.",,P,2
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",I found this advice very useful and was reminded that building self-worth is a journey that I can take one step at a time.,,P,1
+"Wed, 28 Feb 2024 09:57:36 GMT","I've been feeling aimless and see no point in living, which led me to seek someone to talk to.",,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT","I admitted that I find no joy in anything I do, which was acknowledged as a deep sense of disconnection from activities I once enjoyed.",,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT","I was thanked for being brave enough to express how I was feeling, but I couldn't shake the worry that something might be wrong with me.",,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT","I felt tired most of the time, a little nervous, but never so nervous that nothing could calm me down.",,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT","I felt hopeless all of the time, sometimes restless or fidgety, but never so restless I couldn't sit still.",,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT","I was depressed most of the time, felt that everything was an effort all of the time, and was so sad that nothing could cheer me up most of the time.",,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT",I also felt worthless all of the time.,,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT","However, feeling overwhelmed by too much information, I asked for a simpler approach.",,P,1
+"Wed, 28 Feb 2024 09:57:36 GMT","I was then guided to focus on one thing at a time, starting with breathing exercises.",,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT","When I felt a tightness in my chest, I was advised to find a comfortable place and gently focus on something in my surroundings to ground myself in the present moment.",,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT","After trying this, I felt a bit better but still struggled with the feeling that nothing matters in life.",,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT",I was open to exploring ways to find meaning or small things that might bring joy.,,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT",I agreed that sending a message was doable.,,P,2
+"Wed, 28 Feb 2024 09:57:36 GMT",I was reminded that I'm not alone and that taking even the smallest step is a move in the right direction.,,P,1
+"Wed, 28 Feb 2024 09:57:36 GMT","I was offered support and reassurance that I could reach out anytime, and I was wished strength and peace.",,P,1
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","With no time to rest, I had to continue straight to work, which was overwhelming.",,P,2
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","On top of my busy schedule, I was also fasting and had to perform Terawih prayers at night, which added to my exhaustion.",,P,2
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I felt tired most of the time but wasn't nervous, restless, or depressed.",,P,2
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I was just really tired, especially with the fasting and nightly prayers.",,P,2
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",Small tasks felt like a big effort because I wasn't getting enough rest.,,P,2
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I expressed my frustration with people often being indifferent (""bo chap"") and found it difficult to get their attention.",,P,2

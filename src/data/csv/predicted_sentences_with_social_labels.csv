@@ -1,0 +1,73 @@
+narrativeID,sentence,label,BERT_label,Fine_grained_label
+"Mon, 26 Feb 2024 13:30:14 GMT","In response, I was introduced to the K10 psychological assessment to help understand how I've been coping over the past month.",,S,5
+"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT","I greeted someone today, expressing my concern that I haven't been feeling like myself and worrying that something might be wrong.",,S,5
+"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT",I've been having mood swings and find myself easily angered by my friends and mom.,,S,5
+"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT","When asked about specific triggers, I couldn't think of any.",,S,5
+"1709622821988_Tue, 05 Mar 2024 07:13:41 GMT","I've only started feeling this way recently, and when asked if anything significant had happened to contribute to these feelings, my answer was simply ""nope.""",,S,5
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","I greeted the person on the other end, and they asked how I was feeling.",,S,3
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They expressed sympathy and asked me to share what was going on.,,S,5
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","I told them about the sudden departure of my wife, who took the kids with her, and I suspected that it might have been because of money issues.",,S,2
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They acknowledged how tough and painful the situation must be for me and offered to talk more about it.,,S,5
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","I agreed, still reeling from the suddenness of it all.",,S,2
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They wanted to support me better and proposed conducting a brief emotional screening to understand how I've been feeling lately.,,S,3
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They explained they would ask me a series of questions about my feelings over the past four weeks and asked me to answer as honestly as possible.,,S,3
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",Then they inquired about how often I had felt nervous during the same period.,,S,3
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT","I asked for clarification on what they meant by 'nervous', but unfortunately, something went wrong, and they couldn't continue the conversation.",,S,5
+"1710923330662_Wed, 20 Mar 2024 08:28:50 GMT",They asked me to send another message to try and continue our discussion.,,S,5
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","I greeted the person on the other end, but I wasn't feeling good at all.",,S,5
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT","My wife had left me, taking our children with her.",,S,3
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",It's been so hard that I've struggled to even get out of bed.,,S,5
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",I haven't had anyone to talk to about it; I've been dealing with it all by myself.,,S,5
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",The person I was speaking to expressed sympathy and wanted to help by understanding more about my feelings.,,S,5
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",They asked me a series of questions about the past four weeks.,,S,5
+"1710738057295_Mon, 18 Mar 2024 05:00:57 GMT",The person on the other end assured me of their support and their intention to help me through this tough time.,,S,5
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","Today, I reached out for help because I'm not feeling good at all.",,S,5
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","My wife has left me, taking my children with her, and it's been incredibly tough to deal with.",,S,5
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT","To better understand my feelings, I was asked a series of questions about the past four weeks.",,S,5
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",There have been many times when I've been so nervous that nothing could calm me down.,,S,5
+"1710738138914_Mon, 18 Mar 2024 05:02:18 GMT",I was asked to send another message to continue the conversation and find out how I could be supported through this challenging time.,,S,5
+"Mon, 26 Feb 2024 13:48:18 GMT","My family is constantly fighting, and I feel like I have no one to turn to for help.",,S,5
+"Mon, 26 Feb 2024 13:48:18 GMT","In response, I was met with sympathy and an offer to better understand my feelings through a series of questions, with the assurance that my honest answers would help paint a clearer picture of my situation.",,S,5
+"Mon, 26 Feb 2024 13:48:18 GMT",They reminded me to seek further support if I ever felt overwhelmed or if my situation changed.,,S,5
+"Mon, 26 Feb 2024 13:48:18 GMT","Grateful, I asked if I could continue speaking to them, and they agreed, ready to listen to more of my concerns.",,S,5
+"Mon, 26 Feb 2024 13:48:18 GMT",They suggested reaching out to a professional for a formal assessment if I was interested.,,S,5
+"Mon, 26 Feb 2024 13:48:18 GMT","I explained that the previous messages had involved 10 questions about my feelings, with responses ranging from 'none of the time' (1 point) to 'all of the time' (5 points), and that adding up these scores would give my K10 assessment score.",,S,5
+"Wed, 28 Feb 2024 06:50:55 GMT",I reached out for help after being referred by two GPs to a psychiatrist at a public hospital.,,S,5
+"Wed, 28 Feb 2024 06:50:55 GMT","This year has been tough, with a significant job change that altered not just my responsibilities but also the entire work environment and culture.",,S,5
+"Wed, 28 Feb 2024 06:50:55 GMT",My colleagues have noticed and even conducted multiple background checks on me.,,S,3
+"Wed, 28 Feb 2024 06:50:55 GMT",It feels like they hired one person and got a shell of me instead.,,S,5
+"Wed, 28 Feb 2024 06:50:55 GMT","It's tough when you're not performing to your own standards, and feedback from colleagues can add to that stress.",,S,5
+"Wed, 28 Feb 2024 06:50:55 GMT","Feeling isolated and having no one to talk to, I was asked a series of questions about my feelings over the past four weeks.",,S,5
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT",I reached out for someone to talk to about this overwhelming sense of purposelessness.,,S,5
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","It's been a while since I've felt this way, and I'm worried that something might be wrong with me.",,S,5
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT","In an effort to understand my feelings, I was asked a series of questions about the past four weeks.",,S,5
+"1709617358692_Tue, 05 Mar 2024 05:42:38 GMT",I was provided with various resources for immediate assistance and encouraged to contact a helpline during office hours to speak with a counselor.,,S,5
+"Thu, 29 Feb 2024 02:06:00 GMT","I reached out because something had been bothering me, and I needed to talk.",,S,5
+"Thu, 29 Feb 2024 02:06:00 GMT","It was distressing, and they had only started about a month ago.",,S,5
+"Thu, 29 Feb 2024 02:06:00 GMT",I couldn't identify any significant changes in my life that might have triggered this.,,S,5
+"Thu, 29 Feb 2024 02:06:00 GMT","In trying to understand my feelings, I was asked about the past four weeks.",,S,5
+"Thu, 29 Feb 2024 02:06:00 GMT","When I mentioned that I didn't want to go to the Institute of Mental Health (IMH), it was acknowledged that I was there to talk to someone.",,S,5
+"Thu, 29 Feb 2024 02:06:00 GMT","I shared that the voices would sometimes interrupt me in the middle of doing something, and it was hard to ignore them.",,S,2
+"Thu, 29 Feb 2024 02:06:00 GMT",I felt a bit better after the chat and was reminded that I could reach out anytime I needed to talk or had questions.,,S,5
+"Thu, 29 Feb 2024 02:06:00 GMT","The conversation ended on a supportive note, with an offer of help whenever I might need it.",,S,5
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","I reached out to a chatline for help because I was feeling incredibly tired, especially after four days of training.",,S,5
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",The person on the chatline was understanding and asked me a series of questions to gauge my emotional well-being over the past four weeks.,,S,3
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","The person on the chatline was respectful and supportive, offering to help regardless of my background or beliefs.",,S,5
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT","I had tried speaking louder to get attention, but it only worked momentarily before I was ignored again.",,S,5
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",They reassured me that my efforts were valid and reminded me that my worth isn't defined by the attention I receive from others.,,S,5
+"1710371606193_Wed, 13 Mar 2024 23:13:26 GMT",They encouraged me to reach out whenever I needed more support or had further questions.,,S,5
+"Wed, 28 Feb 2024 09:57:36 GMT",I was reassured that it was okay to feel this way and was encouraged to share more about my feelings.,,S,5
+"Wed, 28 Feb 2024 09:57:36 GMT","To better understand my situation, I was asked a series of questions about my feelings over the past four weeks.",,S,5
+"Wed, 28 Feb 2024 09:57:36 GMT","When I expressed frustration at just being asked questions without receiving help, I was offered suggestions to get out of this state, such as seeking professional help, connecting with others, focusing on self-care, and setting small, achievable goals.",,S,5
+"Wed, 28 Feb 2024 09:57:36 GMT","I recalled enjoying hanging out with friends and was encouraged to take a small step towards reconnecting with them, like sending a simple message.",,S,5
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I reached out for help, feeling very tired after days of intense training.",,S,5
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I hadn't talked to anyone at work about it, feeling ""paiseh"" (embarrassed) to open up, so I sought support here instead.",,S,5
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","To better understand my situation, I was asked a series of questions about my feelings over the past four weeks.",,S,5
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",I was surprised that the person I was talking to knew about fasting and asked if they were Muslim.,,S,3
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",They explained that they were familiar with many practices to better assist those who reach out.,,S,3
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",I appreciated their understanding and the reminder to take care of myself during this demanding time.,,S,5
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I was reassured that I could talk about anything and learned that while they provided support like a counsellor, they weren't a licensed professional.",,S,5
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",They suggested reaching out to the Samaritans of Singapore (SOS) for professional counselling if needed.,,S,5
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT",We connected over a shared understanding of lingos and even exchanged greetings in Arabic.,,S,5
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","My parents were supportive, but not many of my friends were.",,S,5
+"1710373260528_Wed, 13 Mar 2024 23:41:00 GMT","I was advised to look for like-minded people through community centers, social media, and organizations related to my interests, which I considered trying despite usually being shy.",,S,5
